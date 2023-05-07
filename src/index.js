@@ -29,3 +29,5 @@ you are now familiar with.
 - app.use() -> The app.use() function is used to mount the specified middleware function(s) at the path which is being specified. It is mostly used to set up middleware for your application. 
 We know how to use middlewares inside the app.get() / app.post(), but instead of adding the middlewares over there we will register/add the middlewares inside the app.use().
 */
+
+// `npm run dev` -> To start & run the Server.
